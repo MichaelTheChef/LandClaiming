@@ -1,0 +1,12 @@
+[package]
+name = "land-claiming"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+feather = "0.11.0"
+
+[dependencies.paper-api]
+git = "https://github.com/PaperMC/Paper-API.git"
+branch = "master"
+rev = "c3f6bba82917187ed0b499d6d667ddceec30e9cc"
