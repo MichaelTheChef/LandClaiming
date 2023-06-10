@@ -1,7 +1,7 @@
 [package]
 name = "land-claiming"
 version = "0.1.0"
-edition = "2021"
+edition = "2022"
 
 [dependencies]
 feather = "0.11.0"
